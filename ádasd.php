@@ -1,7 +1,0 @@
-'started_with' => 'Trường :attribute  phải bắt đầu bằng một trong các Trường sau following::values.',
-'string' => 'Truong :attribute  phải là một chuỗi.',
-'timezone' => 'Trường :attribute  phải là một vùng hợp lệ.',
-'unique' => 'Trường :attribute  đã được sử dụng.',
-'upload' => 'Truong :attribute  không tải lên được.',
-'url' => 'Trường :attribute định dạng không hợp lệ.',
-'uuid' => 'Trường :attribute  phải là một UUID hợp lệ.',

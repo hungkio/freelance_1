@@ -13,10 +13,10 @@ return [
     |
     */
 
-    'reset' => 'mật khẩu của bạn đã được đặt lại!',
-    'sent' => 'chúng tôi đã gửi cho bạn đường dẫn tái thiết lập mật khẩu của bạn qua mail!',
+    'reset' => 'Mật khẩu của bạn đã được đặt lại!',
+    'sent' => 'Chúng tôi đã gửi cho bạn đường dẫn tái thiết lập mật khẩu của bạn qua mail!',
     'throttled' => 'Hãy chờ một chút trước khi thử lại.',
-    'token' => 'kí tự đặt lại mật khẩu không tồn tại',
-    'user' => "chúng tôi không thể tìm thấy người dùng địa chỉ email này",
+    'token' => 'Kí tự đặt lại mật khẩu không tồn tại',
+    'user' => "Chúng tôi không thể tìm thấy người dùng địa chỉ email này",
 
 ];

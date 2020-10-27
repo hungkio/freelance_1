@@ -21,9 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b572adbe-b85e-4f4b-84a2-b59668ed027e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fsdfsd.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/validation.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ádasd.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603794808886</updated>
       <workItem from="1603794810181" duration="1807000" />
-      <workItem from="1603800531161" duration="8312000" />
+      <workItem from="1603800531161" duration="10454000" />
     </task>
     <servers />
   </component>
